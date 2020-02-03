@@ -26,3 +26,4 @@ docker run --name browsermob-proxy -e PORT=9000 -e PROXY_PORT_RANGE=9001-9010 -p
 * ADDRESS=0.0.0.0
 * PROXY_PORT_RANGE=8081-65535
 * TTL=0
+* BMP_OPTS
